@@ -1,0 +1,28 @@
+{
+  "horizon": 24,
+  "lookback": 48,
+  "features": [
+    "nivel",
+    "nivel_lag_1h",
+    "nivel_lag_3h",
+    "nivel_lag_6h",
+    "nivel_delta_1h",
+    "nivel_delta_3h",
+    "nivel_delta_6h",
+    "nivel_rmean_6h",
+    "nivel_rmean_24h",
+    "nivel_rstd_24h",
+    "era5_precip",
+    "era5_precip_accum_6h",
+    "era5_precip_accum_24h",
+    "era5_temp",
+    "era5_soil_l1",
+    "era5_pressure",
+    "hour_sin",
+    "hour_cos",
+    "month_sin",
+    "month_cos"
+  ],
+  "threshold": 0.1,
+  "version": "v6.0_lstm"
+}
