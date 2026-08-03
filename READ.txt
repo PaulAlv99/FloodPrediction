@@ -1,5 +1,0 @@
-## Para executar
-
-Correr create_database_v4
-
-Executar o pipeline
